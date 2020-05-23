@@ -7,7 +7,7 @@
 @author      jony10 w/stolen code from hackernews-one-dark
 ==/UserStyle== */
 
-@-moz-document domain("news.ycombinator.com/")
+@-moz-document domain("news.ycombinator.com/"){
 
 :root {
     --green: rgba(80, 250, 123, 0.8);
@@ -101,3 +101,4 @@
   .subtext {
     font-size: 12px;
   }
+}
