@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        HackerNews Dracula
 @namespace   jony10
-@version     1.0.1
+@version     1.0.2
 @homepageURL https://github.com/jony10/hackernews-dracula
 @updateURL   https://raw.githubusercontent.com/jony10/hackernews-dracula/master/hackernews-dracula-theme.user.css
 @author      jony10
@@ -20,8 +20,8 @@
     --bg-grey2-hover: rgb(68, 71, 90);
     --bg-side: rgba(40, 42, 54, 1);
     --red: rgba(255, 85, 85, 1);
-    --title-yellow: rgba(241, 250, 140, 1);
-    --title-yellow2: rgba(241, 250, 140, 0.7);
+    --title-yellow: rgba(255, 184, 108, 1);
+    --title-yellow2: rgba(255, 184, 108, 0.7);
     --highlight-yellow: rgba(255, 184, 108, 1);
     --text-grey: rgba(248, 248, 242, 0.7);
     --text-grey2: rgba(248, 248, 242, 1);
@@ -30,10 +30,10 @@
   }
   html,
   body {
-    font-family: -apple-system, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue',
+    font-family: -apple-system, Consolas, BlinkMacSystemFont, Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue',
       sans-serif;
     background-color: var(--bg-greyest);
-    font-size: 12px;
+    font-size: 13px;
     color: var(--text-grey);
   }
   a:link {
