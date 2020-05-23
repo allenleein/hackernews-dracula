@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name        HackerNews Dracula
 @namespace   jony10
-@version     1.0.2
+@version     1.0.0
 @homepageURL https://github.com/jony10/hackernews-dracula
 @updateURL   https://raw.githubusercontent.com/jony10/hackernews-dracula/master/hackernews-dracula-theme.user.css
 @author      jony10
@@ -58,7 +58,7 @@
   }
   .title {
     font-family: inherit;
-    font-size: 13px;
+    font-size: 12px;
   }
   .storylink:link {
     color: var(--title-yellow);
@@ -98,6 +98,6 @@
     font-size: 0.875em;
   }
   .subtext {
-    font-size: 12px;
+    font-size: 11px;
   }
 }
