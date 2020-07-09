@@ -1,4 +1,4 @@
-# HackerNews Dracula Theme userstyle for Stylus
+# HackerNews Dracula Theme for Stylus
 
 Preview:
 
