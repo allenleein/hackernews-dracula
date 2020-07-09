@@ -1,10 +1,13 @@
 # hackernews-dracula
 HackerNews Dracula Theme userstyle for Stylus
 
-![Install here](https://github.com/jony10/hackernews-dracula/raw/master/hackernews-dracula-theme.user.css)
+Install:
+
+[Copy/paste CSS files to Stylus](https://github.com/allenleein/hackernews-dracula/blob/master/hackernews-dracula-theme.user.css) 
+
+![Install here](https://i.imgur.com/hHmwmlz.jpg)
 
 Preview:
 
-![Preview](https://raw.githubusercontent.com/jony10/hackernews-dracula/master/HackerNews-Dracula.PNG)
+![Preview](https://i.imgur.com/lecfoTr.jpg)
 
-Based on https://userstyles.org/styles/161954/hackernews-one-dark Hacker News Stylish css theme 
